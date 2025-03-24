@@ -1,0 +1,23 @@
+.body {
+    background-color: violet;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.preto {
+    background-color: #000;
+    width: 4rem;
+    height: 4rem;
+    list-style: none;
+}
+
+.branco {
+    background-color: #fff;
+    width: 4rem;
+    height: 4rem;   
+    list-style: none;
+}
